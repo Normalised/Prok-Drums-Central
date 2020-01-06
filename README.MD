@@ -1,3 +1,5 @@
-Prok Drums Central
+# Prok Drums Central
 
-Prok Drum Firmware Application
+Please report bugs, crashes and feature requests to the Issues section - https://github.com/Normalised/Prok-Drums-Central/issues
+
+Download the Prok Modular Drum Editor software here (OSX/Win/Linux) - https://normalised.github.io/ProkDrumsEditor/
